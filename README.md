@@ -53,8 +53,8 @@
 
 ### 🚶‍♂️ Let's Connect!
 
-- 💌 [LinkedIn](https://www.linkedin.com/in/tirthankar-dasgupta)
-- 📧 mr.tirthankardg@gmail.com
+- 💌 [LinkedIn](https://www.linkedin.com/in/tirthankar-dasgupta-mrtg1b)
+- 📧 tirthankardasgupta913913@gmail.com
 - 💬 Always open to discussions, collaborations, and exciting tech opportunities!
 
 ---
