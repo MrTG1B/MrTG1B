@@ -23,21 +23,24 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Fusion360](https://img.shields.io/badge/-Fusion360-1797ED?style=flat-square&logo=autodesk&logoColor=white)
 
 - **Web**: Node.js, Flask, Express
 - **Hardware**: ESP32, Arduino, Sensors, Actuators, 3D Printing (Ender 3)
-- **Tools**: Git, GitHub, Figma, AutoCAD, VS Code
+- **Tools**: Git, GitHub, Figma, Fusion360, AutoCAD, VS Code
 - **Others**: Firebase, Google Generative AI, Flask-SocketIO, API Integrations
 
 ---
 
 ### 💼 Projects & Interests
 
-- 🚗 **Autonomous Robot Navigation**
-- 🛠️ **Anti-Collision Train Systems**
-- 📷 **360° 3D Scanning Systems**
-- 📉 **Real-time Web Dashboards**
-- 🔍 Always eager to dive into **AI-driven IoT** and **Smart Systems**.
+- 🤖 **Autonomous Robot Navigation**
+- 💡 **Smart Street Light Fault Detection System** and its Dashboard ([Lumen Dashboard](https://github.com/MrTG1B/Lumen_Dashboard))
+- 🦾 **Handy**: Affordable Myoelectric Prosthetic Hand
+- 🚁 **AgriDrone**: Agricultural Drone
+- 🤖 **NOVA**: Personal AI Assistant (like Jarvis)
+- ⚙️ **3D Printing Cost Calculator** ([3DPCC](https://github.com/MrTG1B/3DPCC))
+- …and many more
 
 ---
 
@@ -81,3 +84,4 @@
 Thanks for visiting my profile! 💚
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
