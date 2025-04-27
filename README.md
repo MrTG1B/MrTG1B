@@ -27,7 +27,7 @@
 
 - **Web**: Node.js, Flask, Express
 - **Hardware**: ESP32, Arduino, Sensors, Actuators, 3D Printing (Ender 3)
-- **Tools**: Git, GitHub, Figma, Fusion360, AutoCAD, VS Code
+- **Tools**: Git, GitHub, Figma, AutoCAD, VS Code
 - **Others**: Firebase, Google Generative AI, Flask-SocketIO, API Integrations
 
 ---
@@ -36,9 +36,9 @@
 
 - 🤖 **Autonomous Robot Navigation**
 - 💡 **Smart Street Light Fault Detection System** and its Dashboard ([Lumen Dashboard](https://github.com/MrTG1B/Lumen_Dashboard))
-- 🦾 **Handy**: Affordable Myoelectric Prosthetic Hand
+- 🦾 **Handy**: Affordable Myoelectric Prosthetic Hand([Handy App](https://github.com/MrTG1B/Handy_App))
 - 🚁 **AgriDrone**: Agricultural Drone
-- 🤖 **NOVA**: Personal AI Assistant (like Jarvis)
+- 🤖 **N.O.V.A.**: Personal AI Assistant (like Jarvis)([N.O.V.A.](https://github.com/MrTG1B/NOVA))
 - ⚙️ **3D Printing Cost Calculator** ([3DPCC](https://github.com/MrTG1B/3DPCC))
 - …and many more
 
@@ -46,7 +46,7 @@
 
 ### 📚 Latest Achievements
 
-- 👑 Secured **2nd Position** in **SPICE Project Competition** (ECE Dept., Techno International New Town).
+- 👑 Secured **2nd Position** in **Hackfest State and Regional Round** (Techno International New Town).
 - 🖖 Hands-on experience working on **vision-based AI models** and **Google Generative AI APIs**.
 
 ---
