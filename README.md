@@ -27,7 +27,7 @@
 
 - **Web**: Node.js, Flask, Express
 - **Hardware**: ESP32, Arduino, Sensors, Actuators, 3D Printing (Ender 3)
-- **Tools**: Git, GitHub, Figma, AutoCAD, VS Code
+- **Tools**: Git, GitHub, Figma, AutoCAD, VS Code, Android Studio 
 - **Others**: Firebase, Google Generative AI, Flask-SocketIO, API Integrations
 
 ---
