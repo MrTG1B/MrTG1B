@@ -77,7 +77,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MrTG1B&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTG1B&theme=tokyonight)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTG1B&theme=green)
 
 ---
 
