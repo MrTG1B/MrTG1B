@@ -36,8 +36,7 @@
 
 ### 💼 Projects & Interests
 
-\$1- 💊 🚀 **WellMed**: *A feature-rich Medicine Information & Management App* ([GitHub](https://github.com/MrTG1B/WellMed) | [Live Site](https://wellmed.vercel.app/))
-
+* 💊 🚀 **WellMed**: *A feature-rich Medicine Information & Management App* ([GitHub](https://github.com/MrTG1B/WellMed) | [Live Site](https://wellmed.vercel.app/))
 * ✨ 🌟 **PromptForge**: *A creative Prompt Generator Tool for AI Enthusiasts & Content Creators* ([GitHub](https://github.com/MrTG1B/PromptForge) | [Live Site](https://prompt-forge-blond.vercel.app/))
 * 🛰️ **Affordable 3D Scanner**: *Low-cost 360° 3D scanner for monitoring pipe health and structural analysis*
 * 🤖 **Gemini-powered Bot**: *Autonomous robot powered by Google's Gemini API for smart navigation and decision-making*
