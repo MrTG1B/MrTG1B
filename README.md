@@ -36,12 +36,15 @@
 
 ### 💼 Projects & Interests
 
-* 🤖 **Autonomous Robot Navigation**
+\$1- 💊 🚀 **WellMed**: *A feature-rich Medicine Information & Management App* ([GitHub](https://github.com/MrTG1B/WellMed) | [Live Site](https://wellmed.vercel.app/))
+
+* ✨ 🌟 **PromptForge**: *A creative Prompt Generator Tool for AI Enthusiasts & Content Creators* ([GitHub](https://github.com/MrTG1B/PromptForge) | [Live Site](https://prompt-forge-blond.vercel.app/))
+* 🛰️ **Affordable 3D Scanner**: *Low-cost 360° 3D scanner for monitoring pipe health and structural analysis*
+* 🤖 **Gemini-powered Bot**: *Autonomous robot powered by Google's Gemini API for smart navigation and decision-making*
 * 💡 **Smart Street Light Fault Detection System** and its Dashboard ([Lumen Dashboard](https://github.com/MrTG1B/Lumen_Dashboard))
-* 🦾 **Handy**: Affordable Myoelectric Prosthetic Hand([Handy App](https://github.com/MrTG1B/Handy_App))
+* 🦾 **Handy**: Affordable Myoelectric Prosthetic Hand ([Handy App](https://github.com/MrTG1B/Handy_App))
 * 🚁 **AgriDrone**: Agricultural Drone
-* 🤖 **N.O.V.A.**: Personal AI Assistant (like Jarvis)([N.O.V.A.](https://github.com/MrTG1B/NOVA))
-* ⚙️ **3D Printing Cost Calculator** ([3DPCC](https://github.com/MrTG1B/3DPCC))
+* 🤖 **N.O.V.A.**: Personal AI Assistant (like Jarvis) ([N.O.V.A.](https://github.com/MrTG1B/NOVA))
 * …and many more
 
 ---
